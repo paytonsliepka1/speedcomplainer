@@ -2,11 +2,10 @@ import os
 import sys
 import time
 from datetime import datetime
-import daemon
 import signal
 import threading
 import twitter
-import json 
+import json
 import random
 from logger import Logger
 
