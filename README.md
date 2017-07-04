@@ -1,5 +1,8 @@
-# speedcomplainer
-A python app that will test your internet connection and then complain to your service provider (and log to a data store if you'd like)
+# speedcomplainertwc
+An open fork of 'speedcomplainer' by GitHub user james-atkinson for Spectrum customers.
+
+## Examples
+View an example of speedcomplainertwc at work on Twitter @hatespectrumbot (twitter.com/hatespectrumbot)
 
 ## Configuration
 Configuration is handled by a basic JSON file. Things that can be configured are:
