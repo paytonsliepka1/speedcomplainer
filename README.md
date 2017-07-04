@@ -4,6 +4,9 @@ An open fork of 'speedcomplainer' by GitHub user james-atkinson for Spectrum cus
 ## Examples
 View an example of speedcomplainertwc at work on Twitter @hatespectrumbot (twitter.com/hatespectrumbot)
 
+## How to use
+All configuration docs can be found on (placeholder)
+
 ## Configuration
 Configuration is handled by a basic JSON file. Things that can be configured are:
 * twitter
